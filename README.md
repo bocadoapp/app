@@ -1,6 +1,7 @@
 # Mobile App (Android/iOS)
 
 Barebones app creada amb react-native/expo.
+Lectura recomenada: [react-native basic docs](https://reactnative.dev/docs/getting-started)
 
 ---
 
