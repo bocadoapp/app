@@ -116,3 +116,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+#IntellIJ IDE settings
+.idea/
